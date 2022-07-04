@@ -1,0 +1,66 @@
+h1 {
+   font-size: 48px; 
+   color: #F9FAF8;
+   font-weight: 800;
+
+}
+.parteI {
+    background-color: #1F2937;
+    padding-bottom: 50px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 15px;
+    
+
+}
+.headerlogo {
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-right: 300px;
+    
+    
+    
+}
+a, p {
+    font-size: 18px;
+    color: #e5c7eb;
+    margin-bottom: 100px; 
+    
+}
+img {
+    height: 250px;
+    width: 550px;
+}
+
+
+.headers {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+}
+
+.container {
+    display:flex;
+    gap: 80px;
+}
+
+.texto {
+    width: 400px;
+height: 300px;
+    text-align: left;
+}
+button {
+    background-color: blue;
+    color: white;
+    margin-top: 0px;
+
+}
+p {
+    margin-bottom: 0px;
+}
+
+    
+
+
+   
+    
