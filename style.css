@@ -30,6 +30,7 @@ a, p {
 img {
     height: 250px;
     width: 550px;
+    margin-left: 15px;
 }
 
 
@@ -41,8 +42,23 @@ img {
 
 .container {
     display:flex;
-    gap: 80px;
+    
+    
 }
+
+li > img {
+    height: 100px;
+    width: 100px;
+    
+}
+
+li {
+   
+padding-right: 60px;
+padding-left: 80px;
+}
+
+
 
 .texto {
     width: 400px;
@@ -58,9 +74,90 @@ button {
 p {
     margin-bottom: 0px;
 }
-
+.parteII {
+    background-color: white;
+}
     
+h2 {
+    padding-left: 400px;
+    font-size: 38px;
+    color: #1F2937;
+    font-weight: 900;
+}
 
+ul {
+    display: flex;
+    list-style: none;
+    
+    
+}
 
+.legenda {
+    color: black;
+    text-align: center;
    
+}
+
+.bigbox {
+    display: flex;
+    justify-content: center;
+    gap: 0px;
+}
+
+
+.parteIII {
+    background-color: #e5e7eb;
     
+}
+h3 {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 50;
+    display: inline-block;
+    padding-left: 190px;
+    padding-right: 190px;
+    margin-bottom: 0px;
+}
+
+.III {
+    padding-left: 700px;
+    color: black;
+    font-weight: 800;
+    margin-top: 0px;
+   
+}
+
+.informationbox {
+
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    width: 700px;
+    height: 100px;
+    margin-top: 30px;
+    margin-left: 200px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+.IV {
+    color: white;
+    margin-top: 0px;
+}
+.buttonII {
+    margin-left: 600px;
+}
+.rodape {
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    background-color: #1F2937;
+    color: white;
+    margin-top: 30px;
+}
+
+
+
+
+
